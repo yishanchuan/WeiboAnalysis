@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+Spider/fast/.editorconfig
+Spider/fast/.travis.yml
+Spider/fast/.gitattributes
